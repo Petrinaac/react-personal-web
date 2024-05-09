@@ -1,0 +1,64 @@
+{
+  "socials": [
+    {
+      "id": "1",
+      "href": "mailto:martin.petrina199@gmail.com",
+      "class": "fa-solid fa-envelope"
+    },
+    {
+      "id": "2",
+      "href": "https://www.linkedin.com/in/martin-pet%C5%99ina-b47a07281/",
+      "class": "fa-brands fa-linkedin"
+    },
+    {
+      "id": "3",
+      "href": "https://github.com/Petrinaac",
+      "class": "fa-brands fa-github"
+    }
+  ],
+
+  "techStack": [
+    {
+      "id": "1",
+      "src": "./img/html.png",
+      "title": "Html"
+    },
+    {
+      "id": "2",
+      "src": "./img/css.png",
+      "title": "Css"
+    },
+    {
+      "id": "3",
+      "src": "./img/javascript.png",
+      "title": "Javascript"
+    },
+    {
+      "id": "4",
+      "src": "./img/react.png",
+      "title": "React"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "src": "./img/cozyhouse.png",
+      "title": "Cozy House",
+      "description": "Statická landing page prodejny nábytku. Je plně responzivní a dá se přepnout na dark mode.",
+      "link": "https://github.com/Petrinaac/furnitureShop",
+      "html": "./img/html.png",
+      "js": "./img/javascript.png",
+      "css": "./img/css.png"
+    },
+    {
+      "id": "2",
+      "src": "./img/weatherapp.png",
+      "title": "Weather App",
+      "description": "Aplikace zobrazuje údaje o aktuálním počasí na základě Vaší geolokace, s využitím DarkSky API.",
+      "link": "https://github.com/Petrinaac/weatherApp",
+      "html": "./img/html.png",
+      "js": "./img/javascript.png",
+      "css": "./img/css.png"
+    }
+  ]
+}
