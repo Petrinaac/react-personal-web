@@ -44,7 +44,7 @@
       "id": "1",
       "src": "./img/czech.png",
       "title": "Travel web",
-      "description": "Vicedoménová stránka nabízející výlety a zájezdy po Čechách, vytvořena v react.js",
+      "description": "Stránka nabízející výlety a zájezdy po Čechách, vytvořena v react.js",
       "link": "https://github.com/Petrinaac/travel-vite-react",
       "one": "./img/react.png",
       "two": "./img/vite.png",
