@@ -19,9 +19,9 @@ export default function Projects() {
                   {item.title}
                 </h3>
                 <div className="used-stack">
-                  <img src={item.html} alt="html" width="32px" />
-                  <img src={item.css} alt="css" width="32px" />
-                  <img src={item.js} alt="javascript" width="32px" />
+                  <img src={item.one} alt="techone" width="32px" />
+                  <img src={item.two} alt="techtwo" width="32px" />
+                  <img src={item.three} alt="techthree" width="32px" />
                 </div>
               </div>
                 <p className="projects-description">{item.description}</p>

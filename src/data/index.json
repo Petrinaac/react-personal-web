@@ -42,23 +42,33 @@
   "projects": [
     {
       "id": "1",
-      "src": "./img/cozyhouse.png",
-      "title": "Cozy House",
-      "description": "Statická landing page prodejny nábytku. Je plně responzivní a dá se přepnout na dark mode.",
-      "link": "https://github.com/Petrinaac/furnitureShop",
-      "html": "./img/html.png",
-      "js": "./img/javascript.png",
-      "css": "./img/css.png"
+      "src": "./img/czech.png",
+      "title": "Travel web",
+      "description": "Vicedoménová stránka nabízející výlety a zájezdy po Čechách, vytvořena v react.js",
+      "link": "https://github.com/Petrinaac/weatherApp",
+      "one": "./img/react.png",
+      "two": "./img/vite.png",
+      "three": "./img/css.png"
     },
     {
       "id": "2",
+      "src": "./img/cozyhouse.png",
+      "title": "Cozy House",
+      "description": "Landing page prodejny nábytku. Je plně responzivní a dá se přepnout na dark mode.",
+      "link": "https://github.com/Petrinaac/furnitureShop",
+      "one": "./img/html.png",
+      "two": "./img/javascript.png",
+      "three": "./img/css.png"
+    },
+    {
+      "id": "3",
       "src": "./img/weatherapp.png",
       "title": "Weather App",
       "description": "Aplikace zobrazuje údaje o aktuálním počasí na základě Vaší geolokace, s využitím DarkSky API.",
       "link": "https://github.com/Petrinaac/weatherApp",
-      "html": "./img/html.png",
-      "js": "./img/javascript.png",
-      "css": "./img/css.png"
+      "one": "./img/html.png",
+      "two": "./img/javascript.png",
+      "three": "./img/css.png"
     }
   ]
 }

@@ -271,6 +271,7 @@ h3 {
   object-fit: contain;
   object-position: center;
   width: 100%;
+  border-radius: 8px;
 }
 
 .projects-section-box {
